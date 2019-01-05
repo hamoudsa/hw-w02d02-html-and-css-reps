@@ -12,3 +12,29 @@ Link Hover Color = #20222a
 GO FOR IT  :D   Don't worry about getting it exact!
 
 */
+body {
+font-size: 12px;
+line-height: 17px;
+font-family: 'Times New Roman', Times, serif;
+color: #656565;
+}
+#container{
+	padding: 9px 30px 10px 30px;
+}
+h3 {
+	font-size: 23px;
+}
+
+.img{
+	border: 5 px solid #656565;
+	display: inline;
+}
+.images {
+	width: 100%;	
+}
+.ourLatest{
+	font-size: 22px;
+}
+.year{
+	color: blue;
+}
